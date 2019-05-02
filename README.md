@@ -1,4 +1,4 @@
-To install this file you need to make a .vim folder which is a hidden folder that can only be seen if you type the linux command ls -a to list the filesat that particular location.
+To install this file you need to make a .vim folder which is a hidden folder that can only be seen if you type the linux command ls -a to list the files at that particular location.
 
 1. cd ~ 
 2. mkdir .vim 
